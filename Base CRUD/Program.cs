@@ -6,7 +6,7 @@ using Base_CRUD.Servicios;
 
 
 Console.WriteLine("Hello, World!");
-//Hacer Menu dinamico que permita hacer el CRUD
+
 
 var personServices = new PersonService();
 
